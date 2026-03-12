@@ -1,1 +1,13 @@
-
+body{
+    background-color: dimgrey;
+}
+h1{
+    text-align: center;
+    color:bisque
+}
+.Subheading{
+    text-align: center;
+}
+.Subheading{
+    color: darkred;
+}
