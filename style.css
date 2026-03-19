@@ -9,5 +9,14 @@ h1{
     text-align: center;
 }
 .Subheading{
-    color: darkred;
+ 
+ color:brown
+
+}
+h2{
+    text-decoration: underline;
+    text-align: center;
+}
+img {
+    float: right;
 }
