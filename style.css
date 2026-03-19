@@ -17,6 +17,11 @@ h2{
     text-decoration: underline;
     text-align: center;
 }
+
 img {
     float: right;
+    width: 450px;
+}
+img{
+border: 5px solid black
 }
