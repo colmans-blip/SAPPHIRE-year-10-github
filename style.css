@@ -1,5 +1,5 @@
 body{
-    background-color: dimgrey;
+    background-color:lightslategray
 }
 h1{
     text-align: center;
@@ -26,9 +26,42 @@ img{
 border: 5px solid black;
 }
 .redtitle {
-    color: red;
+    color:beige
 }
 .bluetitle {
     color: blue;
 }
+.heading{
+    color: honeydew;
+}
+.Paragraph2{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.Pargraph1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.Tikangaheading{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.Tikangaheading{
+    color:honeydew
+}
+.Tikangaheading2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 
+}
+.background{
+    background-color:darkcyan
+}
+.Tikangaimage1{
+    float: left;
+    width: 400px;
+    border-radius: 100px;
+    border: 100px steelblue;
+ margin-top: 50px;
+}
+.Tikangalist1{
+    margin-top: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+}
